@@ -1,2 +1,2 @@
 # elmapaul.github.io
-My personal web page
+My repo/page with various projects
