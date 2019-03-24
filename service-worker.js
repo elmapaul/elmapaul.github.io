@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/elmapaul/elmapaul.github.io/precache-manifest.1298211a301dee60bdc0dd6a82580e90.js"
+  "/elmapaul.github.io/precache-manifest.2e06758fb86b3c6dcaa7af4ca334b13d.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/elmapaul/elmapaul.github.io/index.html", {
+workbox.routing.registerNavigationRoute("/elmapaul.github.io/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
